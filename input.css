@@ -1,0 +1,17 @@
+.parent {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 20px;
+    height: 20px;
+}
+h4 {
+    color: rgb(43, 42, 42);
+}
+.b1 {
+    width: 550px;
+    height: 300px;
+}
